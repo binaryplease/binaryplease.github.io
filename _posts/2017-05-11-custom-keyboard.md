@@ -2,7 +2,7 @@
 layout: post
 categories:
 	- Microcontrolers
-title: Building a Custom Programmable Keyboard from Scratch
+title: "Building a Custom Programmable Keyboard from Scratch"
 ---
 
 # Title
