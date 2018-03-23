@@ -4,10 +4,11 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+# About
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Here are some write-ups about projects of mine. I like to break things, to repair them, to modify them and to create new ones.
+
+If you find something interesting or want to add somethig you are free to leave a comment or message me at <a href="mailto:pablo1@mailbox" itemprop="email"> pablo1@mailbox.org </a>
+
+This blog is build using the [Jekyll](http://jekyllrb.com) with the [Hydeout](https://github.com/fongandrew/hydeout)
+theme on [GitHub Pages](https://pages.github.com/).
