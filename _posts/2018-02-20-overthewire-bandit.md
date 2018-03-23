@@ -17,9 +17,6 @@ last_modified_at: 2018-03-23 11:56
 # Intro
 # Solutions
 
-embedded
-<script src="https://asciinema.org/a/VDRLmllKyjosGdsHMSyX2vu7z.js" id="asciicast-VDRLmllKyjosGdsHMSyX2vu7z" async></script>
-
 # Level 0
 ## Instructions
 ## Solution
