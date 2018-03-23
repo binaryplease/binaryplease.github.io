@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Software Defined Radio (SDR)
+title: Software Defined Radio
 ---
 
 SDR Projects
