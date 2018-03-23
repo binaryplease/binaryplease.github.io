@@ -25,6 +25,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  
+disqus:
+  shortname: pablo1_disqus
 
 # Custom vars
 version:            3.5.3
