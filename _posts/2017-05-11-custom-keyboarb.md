@@ -1,6 +1,7 @@
 
 ---
 layout: post
+layout: microcontrollers
 title: Building a Custom Programmable Keyboard from Scratch
 ---
 

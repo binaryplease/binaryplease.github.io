@@ -1,6 +1,7 @@
 
 ---
 layout: post
+layout: microcontrollers
 title: Building an Arduino OTP (One Time Password) Generator
 ---
 
