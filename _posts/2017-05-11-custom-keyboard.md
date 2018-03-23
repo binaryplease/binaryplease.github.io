@@ -46,6 +46,8 @@ More ergonomic or not, I liked the idea and the reasoning behind it. Also it loo
 When it comes to the switches in a keyboard you basically have to choose
 between to categories: Mechanical or rubber dome. If you have ever typed on a mechanical keyboard you will be spoiled and never want to go back. Rubber dome (or membrane) keyboards are cheap to manufacture but high-quality keybaords will use mechanical switches in most cases as they feel better and last way longer.
 
+![placeholder](/assets/img/cherrymxbrown1.gif)
+
 Probably the most important choice when choosing or building a mechanical keyboard will be the switch type. There are queite a few there and a lot of explanations on the differences. I decided to go with Cherry MX Brown switches after trying the different types on a tester.
 
 ## Keycaps
@@ -54,16 +56,23 @@ Keycaps are the plastic caps you push your finger against when typing. They can 
 
 Keycaps for mechanical keyboard can have different shapes, that is the profile of the keycap as well as the touch area can have different forms. There are three standard keycap families
 
-TODO include images
-
 #### DSC Family
+![placeholder](/assets/img/DCS-family.jpg)
 medium profile, cylindrical top, sculptured.
+
 #### DSA Family
+![placeholder](/assets/img/DSA-family.jpg)
 medium profile, spherical top, non-sculptured.
+
 #### SA Family
+![placeholder](/assets/img/SA-family.jpg)
 high profile, spherical top, sculptured.
+
 #### G20 Family
+![placeholder](/assets/img/pmk-g20-family.jpg)
 medium profile, flat top, non-sculptured
+
+If you are interested on more in-depth information about keycaps and shapes you can visit this [Wiki on Reddit](https://www.reddit.com/r/MechanicalKeyboards/wiki/keycap_guides)
 
 I decided to go with DSA keycaps as they feel the the most comfortable to me and allow to switch they keys between each other because they all have the same form.
 
