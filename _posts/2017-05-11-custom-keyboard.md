@@ -1,8 +1,16 @@
 ---
 layout: post
-categories:
-	- Microcontrollers
 title: "Building a Custom Programmable Keyboard from Scratch"
+excerpt: "Build an One-Time-Password dongle compatible with the hotp and totp algorythms using an arduino and a small OLED screen"
+categories:
+  - Microcontrollers
+tags:
+  - microcontroller
+  - teensy
+  - keyboard
+  - electronics
+  - colemak
+last_modified_at: 2018-03-23 11:56
 ---
 
 # Title

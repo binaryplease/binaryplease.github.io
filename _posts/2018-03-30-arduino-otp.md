@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an Arduino OTP Generator"
-excerpt: "A large amount of sample text to test readability of a text heavy page."
+excerpt: "Build an One-Time-Password dongle compatible with the hotp and totp algorythms using an arduino and a small OLED screen"
 categories:
   - Microcontrollers
 tags:
@@ -13,13 +13,6 @@ tags:
 last_modified_at: 2018-03-23 11:45
 ---
 
-
-> ---
-> layout: post
-> category: Microcontrollers
-> title: Building an Arduino OTP (One Time Password) Generator
-> ---
-
 # Title
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -28,5 +21,4 @@ vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 -----
-
 A footer Link <a href="https://github.com/binaryplease">Link Text</a>
