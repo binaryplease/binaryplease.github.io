@@ -4,8 +4,6 @@ title: About
 sidebar_link: true
 ---
 
-# About
-
 Here are some write-ups about projects of mine. I like to break things, to repair them, to modify them and to create new ones.
 
 If you find something interesting or want to add somethig you are free to leave a comment or message me at <a href="mailto:pablo1@mailbox" itemprop="email"> pablo1@mailbox.org </a>
