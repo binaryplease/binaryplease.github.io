@@ -11,5 +11,5 @@ If you find something interesting or want to add something you are free to leave
 You can find my public GPG key here: [GPG Key](pub_key.asc)
 
 
-This blog is build using the [Jekyll](http://jekyllrb.com) with the [Hydeout](https://github.com/fongandrew/hydeout)
+This blog is build using [Jekyll](http://jekyllrb.com) with the [Hydeout](https://github.com/fongandrew/hydeout)
 theme on [GitHub Pages](https://pages.github.com/).
