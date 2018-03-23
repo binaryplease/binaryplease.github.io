@@ -3,7 +3,7 @@ layout: post
 title: "Building an Arduino OTP Generator"
 excerpt: "A large amount of sample text to test readability of a text heavy page."
 categories:
-  - Microcontrolers
+  - Microcontrollers
 tags:
   - microcontroller
   - arduino
@@ -16,7 +16,7 @@ last_modified_at: 2018-03-23 11:45
 
 > ---
 > layout: post
-> category: Microcontrolers
+> category: Microcontrollers
 > title: Building an Arduino OTP (One Time Password) Generator
 > ---
 
