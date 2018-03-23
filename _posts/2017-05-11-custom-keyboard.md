@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Custom Programmable Keyboard from Scratch"
-excerpt: "Build an One-Time-Password dongle compatible with the hotp and totp algorythms using an arduino and a small OLED screen"
+excerpt: "Building a custom programmable ortholinear keyboard from scratch with the qmk_firmware"
 categories:
   - Microcontrollers
 tags:
