@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building an Arduino OTP Generator"
+title: "Arduino OTP Generator"
 excerpt: "Build an One-Time-Password dongle compatible with the hotp and totp algorythms using an arduino and a small OLED screen"
 categories:
   - Microcontrollers
