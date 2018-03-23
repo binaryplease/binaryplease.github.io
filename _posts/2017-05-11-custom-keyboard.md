@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Custom Programmable Keyboard from Scratch"
+title: "Custom Ortholinear Keyboard from Scratch"
 excerpt: "Building a custom programmable ortholinear keyboard from scratch with the qmk_firmware"
 categories:
   - Microcontrollers
