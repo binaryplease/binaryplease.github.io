@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Microcontrollers
+title: Microcontrolers
 ---
 
-Microcontroller related projects
+Microcontroler related projects
