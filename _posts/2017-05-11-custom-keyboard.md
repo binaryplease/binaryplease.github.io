@@ -44,11 +44,25 @@ More ergonomic or not, I liked the idea and the reasoning behind it. Also it loo
 ## Switches
 
 When it comes to the switches in a keyboard you basically have to choose
-between to categories: Mechanical or rubber dome. If you have ever typed on a mechanical keyboard you will be spoiled and never want to go back. Rubber dome (or membrane) keyboards are cheap to manufacture but high-quality keybaords will use mechanical switches in most cases as they feel better and last way longer.
+between to categories: Mechanical or rubber dome.
 
-![placeholder](/assets/img/cherrymxbrown1.gif)
 
-Probably the most important choice when choosing or building a mechanical keyboard will be the switch type. There are queite a few there and a lot of explanations on the differences. I decided to go with Cherry MX Brown switches after trying the different types on a tester.
+
+![placeholder](/assets/img/switch-const.png)
+
+Image from [OLKB Maker Fair Posters](https://www.dropbox.com/s/jjo98z2f1cd9ifw/olkb-maker-faire.pdf?dl=0)
+
+
+If you have ever typed on a mechanical keyboard you will be spoiled and never want to go back. Rubber dome (or membrane) keyboards are cheap to manufacture but high-quality keybaords will use mechanical switches in most cases as they feel better and last way longer.
+
+Probably the most important choice when choosing or building a mechanical keyboard will be the switch type. There are queite a few there and a lot of explanations on the differences.
+
+
+![placeholder](/assets/img/switch-types.png)
+
+Image from [OLKB Maker Fair Posters](https://www.dropbox.com/s/jjo98z2f1cd9ifw/olkb-maker-faire.pdf?dl=0)
+
+I decided to go with Cherry MX Brown switches after trying the different types on a tester.
 
 ## Keycaps
 
@@ -77,9 +91,27 @@ If you are interested on more in-depth information about keycaps and shapes you 
 I decided to go with DSA keycaps as they feel the the most comfortable to me and allow to switch they keys between each other because they all have the same form.
 
 ## Microcontroller
+
+For the microcontroller I decided to go with a [Teensy 2.0](https://www.pjrc.com/store/teensy.html). It has 25 I/O pins wwhich is enough for what I want to build. These microcotrollers get used a lot for custom keyboard builds, so there is a lot of information out there and the firmware I plan to use supports it. It can act as a keybord controller, so no additional software or drivers will have tho be installed on the computers I connect the keyboard to later on.
+
+Also it is small enough to fit in a pretty flat case, which is desirable to make the keyboard more ergonomic.
+
 ## Wiring
+
+Since I don't have the stuff at home to etch PCBs at home, I will be making all connection with simple wires.
+
+There is a good tutorial on how to wire a keyboard with only wires and diodes [here](http://blog.roastpotatoes.co/guide/2015/11/04/how-to-handwire-a-planck/). Basically you put a diode on each swich and then wire each row and each column to a pin on the microcontroller.
+
+The result looks something like this:
+
+![placeholder](/assets/img/planck-wiring.png)
+
 ## Firmware
+
+For the firmware I want to use the [QMK Firmware](http://qmk.fm/). It is open source and widely used. Adding my custom layout shouldn't be a problem and it already has all nessesary functions I desire like support for backlight and custom programming of keys and key-combinations.
+
 ## Keymap and Layers
+
 ## Backlight
 
 # Building the Keyboard
@@ -92,7 +124,6 @@ I decided to go with DSA keycaps as they feel the the most comfortable to me and
 ### Keyboard Layers
 ### RGB Lighting
 ## Flashing it on the Keyboard
-
 
 
 
