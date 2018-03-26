@@ -118,6 +118,57 @@ For the firmware I want to use the [QMK Firmware](http://qmk.fm/). It is open so
 ## Materials
 ## Case and Baseplate
 
+I wanted a translucent case for the keyboard, that would be illuminated by a RGB LED Strip with adressable LEDs, so the sides of the case could display different lighting-modes and even some animations. Also single LEDs should be possible to use as indicators for different states of the keyboard by the firmware later on.
+
+The case was build like a sandwich of three different layers, hold togethse by small screws going through all of them:
+
+- A top plate to hold the switches
+- Acryllic glas frames to get the disired heigth 
+- An aluminum bottom plate
+
+I generated cutting templates a CNC machine would be able to read for the top plate and the bottom plate. These were taken from the official planck and modiefied using Inkskape. The final result:
+
+
+![placeholder](/assets/img/cut-top.svg)
+![placeholder](/assets/img/cut-bottom.svg)
+
+These were cut out on a CNC machine out of 2mm aluminium sheets.
+
+
+The acrylic frames that would make up the sides, were cut using a laser cutter with similar templates. Since the one I had access to only could cut up to a certail height, I had to make multiple frames out of thinner sheets and glue them together.
+
+![placeholder](/assets/img/laser-cutter.jpg)
+
+On the upside, it was very easy to leave a gap on one of them for the USB port of the microcontroller that would later be used to plug the keyboard in.
+
+
+![placeholder](/assets/img/glue2.jpg)
+![placeholder](/assets/img/glue1.jpg)
+
+# Wiring the switches
+
+The switches where all placed in the top plate. Since it has the correct thickness they snap into place and don't require any glue or additional fixing. After that I started placing on diode on each swich. I dicided to go with a slightly differint arrangment of the diodes, that allowed the leads to be used to connect the rows later on.
+
+![placeholder](/assets/img/wiring1.jpg)
+
+Afther the diodes where in place I used some wire to make up the remaining connections. Most builds use insulated wires for the connections of the columns, but I wanted to get the case as slim as possible and simply put the connections over the ones for the rows, passing above the diodes wires without touching them. That way nothing was higher that the absolute minimum, the size of the swiches.
+
+![placeholder](/assets/img/wiring2.jpg)
+![placeholder](/assets/img/wiring3.jpg)
+
+The last wiring step was to connect each row and each collumn to the microcontroller. The connections were made using thin cables, passing them below the colums wires. It looks a bit messy, but works well and will later be enclosed invisibly inside the case.
+![placeholder](/assets/img/wiring4.jpg)
+
+
+I drilled holes through all the layers of the case and put small screws with nuts in them to hold everything together. The microcontroller was glued into place using a drop of hotglue and the RGB LED strip was just placed in the gap between the switches and the frame. Obviously it was also connected to the microcontroller.
+
+The last step of the assembly was to put the keycaps on the switches.
+
+
+TODO image?
+
+
+
 # Setting up the Firmware
 ## Adapting the Firmware
 ### Switch wiring
